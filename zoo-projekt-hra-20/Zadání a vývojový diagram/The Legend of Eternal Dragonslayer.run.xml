@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="The Legend of Eternal Dragonslayer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="zoo_projekt_hra_20" TARGET_NAME="zoo_projekt_hra_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="zoo_projekt_hra_20" RUN_TARGET_NAME="zoo_projekt_hra_20">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
